@@ -4,3 +4,11 @@ body
     text-align: center;
     font-family: "Arial";
 }
+#container
+{
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px saddlebrown;
+    margin: 0 auto;
+}
